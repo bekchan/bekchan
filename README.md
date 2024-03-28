@@ -9,6 +9,7 @@ I'm mobile developer. Working with wonderful **Flutter** framework.
 #### Touched:
 - React Native
 - PHP: Yii/Wordpress
+- Cordova/Ionic
 
 <!--
 **bekchan/bekchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
