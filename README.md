@@ -3,11 +3,11 @@ I'm mobile developer. Working with wonderful Flutter framework.
 
 - 🔭 I’m currently working on something cool
 
-# My everyday work tools:
+#### My everyday work tools:
 - Flutter
 - Django/Python
 
-# Touched:
+#### Touched:
 - React Native
 - PHP: Yii/Wordpress
 
