@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello world 👋 I'm Bekchan!
+I'm mobile developer. Working with wonderful Flutter framework.
+
+- 🔭 I’m currently working on something cool
+
+# My everyday work tools:
+- Flutter
+- Django/Python
+
+# Touched:
+- React Native
+- PHP: Yii/Wordpress
 
 <!--
 **bekchan/bekchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
