@@ -1,7 +1,7 @@
 ### Hello world 👋 I'm Bekchan!
-I'm mobile developer. Working with wonderful Flutter framework.
+I'm mobile developer. Working with wonderful **Flutter** framework.
 
-- 🔭 I’m currently working on something cool
+- 🔭 Currently working on something cool
 
 #### Have experience with:
 - Python: Django
